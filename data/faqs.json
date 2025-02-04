@@ -1,0 +1,27 @@
+[
+  {
+    "hasFormatting": false,
+    "question": "Why should we use Bitcoin Mixer?",
+    "answer": "Bitcoin Mixer breaks the chain by providing invisibility and anonymity with our proprietary method of mixing. Using our simple interface that requires no registration you can start your mix knowing that your identity and your tx will be invisible and untraceable."
+  },
+  {
+    "hasFormatting": false,
+    "question": "What is your method?",
+    "answer": "The method Bitcoin Mixer uses is called RandomSum."
+  },
+  {
+    "hasFormatting": true,
+    "question": "How does it work?",
+    "answer": "<p>Bitcoin Mixer uses a proprietary method called RandomSum. We have a bank of Bitcoin addresses that have been created and funded over a period of time. Our addresses average between 30 and 120 old and are consistently being created and funded. When you deposit your Bitcoin to be mixed your input is matched by our algorithm and queued to be processed. How it is processed is up to you. When you start your mix you have the option to set your time of distribution. Your time of distribution can be instant or over a period of time up to 30 days. Here are a couple examples.</p> \n<p>You deposit 1 BTC and select instant for your time of distribution. What happens in this scenario is your 1 BTC is processed by our system and matched to a random group of Bitcoin addresses that equal a total of 1 BTC minus a random fee up to 2.5%. If you notice the number of wallets is random as is the fee. This creates a scenario where it makes it harder for any analysis tool to trace. This is because the fee is random, the address funding dates are random, the amount in each address is random, the total number of distributions are random, and the sum does not exactly equal the input. <p>In another scenario you deposit 1 BTC and select a 7 day distribution to further randomize the tx. What happens in this scenario is your 1 BTC is processed by our system over a period of 7 days. As your BTC is processed it is matched to a random group of Bitcoin addresses that equal the total of 1 BTC minus a random fee up to 2.5%. This does not happen instantly like the above example, instead it happens randomly over a period of 7 days. The number of wallets is random, the fee is random, and so is the distribution. This creates a scenario where it makes it virtually impossible for any analysis tool to trace. This is because the address creation funding dates of the addresses are random, the amount in each address is random, the sum does not exactly equal up to the input, and the time of distribution is random.</p> \n<p> With our method, your transaction has complete invisibility and anonymity.</p>"
+  },
+  {
+    "hasFormatting": false,
+    "question": "Can I choose the number of distributions instead of having it random?",
+    "answer": "Yes we have recently added that ability as it has been a popular request. Keep in mind that for those who want the highest levels of privacy and discretion we recommend that you choose random distributions."
+  },
+  {
+    "hasFormatting": false,
+    "question": "Why do you charge a fee?",
+    "answer": "If it's too good to be true it probably isn't. We provide a professional and secure service that guarantees complete discretion and privacy and we cannot do that for free. If someone offers something for free that is always an ulterior motive."
+  }
+]
